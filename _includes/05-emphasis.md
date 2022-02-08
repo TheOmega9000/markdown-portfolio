@@ -1,2 +1,2 @@
-*JitaroGaming
-**JijisBizarreAdventure
+*JitaroGaming*
+**JijisBizarreAdventure**
